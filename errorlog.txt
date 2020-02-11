@@ -1,0 +1,33 @@
+ERROR on Line 3897: [318DE758, SA, 2B, 2019X304]
+Invalid Number of Inputs
+
+ERROR on Line 17646: [8562792, N, C, 17, 20190304]
+Invalid Transport Modality
+
+ERROR on Line 32129: [*, S, A, 6, 20190304, 90304]
+Invalid Number of Inputs
+
+ERROR on Line 35454: [6750708, G, S, 7, 2BC9B304]
+Invalid Date
+
+ERROR on Line 36521: [T201903046226830, , A, 10, 20190304]
+Invalid Transport Modality
+
+ERROR on Line 41280: [6165954, C, A, D, 20190304]
+Invalid Time
+
+ERROR on Line 42605: [956866X, X, A, 19, 20190304]
+Invalid Person Identification
+
+ERROR on Line 42913: [S, A, 15, 20190304]
+Invalid Number of Inputs
+
+ERROR on Line 46975: [, D, A, 7, 20190304]
+Invalid Person Identification
+
+ERROR on Line 52322: [9393317, X, X, 16, 20190304]
+Invalid Age Group
+
+ERROR on Line 58965: [247A267, C, A, 1, 20190304]
+Invalid Person Identification
+
